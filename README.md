@@ -4,7 +4,7 @@ An app to track scores between 2 players.
 ### Steps to run the project
 1. Fork the project
 2. Clone the repo
-3. Run index.py
+3. Run index.html
 
 ***Like it? [Star this repo](https://github.com/Kajaljain22/Instagram-Bot/) :star:***
 
